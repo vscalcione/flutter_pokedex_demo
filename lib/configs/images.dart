@@ -27,5 +27,5 @@ class AppImage {
     await precacheImage(dotted, context);
     await precacheImage(thumbnail, context);
     await precacheImage(pikloader, context);
-
+  }
 }
